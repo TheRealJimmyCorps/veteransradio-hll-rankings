@@ -1,0 +1,19 @@
+{
+    "serverName":  "HLL: VIET NAM SERVER",
+    "gameType":  "vietnam",
+    "updatedAt":  "2026-09-04T14:14:14Z",
+    "latestTopCombat":  null,
+    "latestTopKiller":  null,
+    "latestDeadliestStreak":  null,
+    "latestTopSupport":  {
+                             "playerName":  "CptCracker",
+                             "playerId":  "00025f10e26541db8e9841feaa8a8c67",
+                             "value":  105,
+                             "mapName":  "THANH HÃA BRIDGE",
+                             "mapId":  "wdevf_domination_day",
+                             "gameMode":  "Domination",
+                             "awardedAt":  "2026-09-04T14:14:14Z"
+                         },
+    "allTimeKillRecord":  null,
+    "allTimeStreakRecord":  null
+}

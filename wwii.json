@@ -1,0 +1,16 @@
+{
+    "serverName":  "HLL: WWII SERVER",
+    "gameType":  "wwii",
+    "updatedAt":  "",
+    "online":  true,
+    "playerCount":  0,
+    "maxPlayerCount":  100,
+    "mapName":  "MORTAIN",
+    "gameMode":  "Skirmish",
+    "totalKills":  [
+
+                   ],
+    "killStreaks":  [
+
+                    ]
+}
