@@ -1,16 +1,24 @@
 {
     "serverName":  "HLL: WWII SERVER",
     "gameType":  "wwii",
-    "updatedAt":  "",
+    "updatedAt":  "2026-09-05T03:31:02Z",
     "online":  true,
     "playerCount":  0,
     "maxPlayerCount":  100,
-    "mapName":  "MORTAIN",
+    "mapName":  "HILL 400",
     "gameMode":  "Skirmish",
     "totalKills":  [
-
+                       {
+                           "rank":  1,
+                           "name":  "HonestBob",
+                           "value":  1
+                       }
                    ],
     "killStreaks":  [
-
+                        {
+                            "rank":  1,
+                            "name":  "HonestBob",
+                            "value":  1
+                        }
                     ]
 }

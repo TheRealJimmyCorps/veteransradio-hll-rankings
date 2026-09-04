@@ -1,27 +1,59 @@
 {
-  "serverName": "HLL: WWII SERVER",
-  "gameType": "wwii",
-  "updatedAt": "WWII BOARD TEST",
-  "latestTopCombat": {
-    "playerName": "COMBATTESTPLAYER",
-    "value": 1845,
-    "mapName": "ST MARIE DU MONT"
-  },
-  "latestTopKiller": {
-    "playerName": "KILLERTESTPLAYER",
-    "value": 72,
-    "mapName": "OMAHA BEACH"
-  },
-  "latestDeadliestStreak": {
-    "playerName": "STREAKTESTPLAYER",
-    "value": 19,
-    "mapName": "FOY"
-  },
-  "latestTopSupport": {
-    "playerName": "SUPPORTTESTPLAYER",
-    "value": 1260,
-    "mapName": "UTAH BEACH"
-  },
-  "allTimeKillRecord": null,
-  "allTimeStreakRecord": null
+    "serverName":  "HLL: WWII SERVER",
+    "gameType":  "wwii",
+    "updatedAt":  "2026-09-06T02:10:08Z",
+    "latestTopCombat":  {
+                            "playerName":  "HonestBob",
+                            "playerId":  "76561198025766687",
+                            "value":  9,
+                            "mapName":  "HÃRTGEN FOREST",
+                            "mapId":  "hurtgenforest_warfare_V2_night",
+                            "gameMode":  "Warfare",
+                            "awardedAt":  "2026-09-05T04:23:07Z"
+                        },
+    "latestTopKiller":  {
+                            "playerName":  "HonestBob",
+                            "playerId":  "76561198025766687",
+                            "value":  1,
+                            "mapName":  "HÃRTGEN FOREST",
+                            "mapId":  "hurtgenforest_warfare_V2_night",
+                            "gameMode":  "Warfare",
+                            "awardedAt":  "2026-09-05T04:23:07Z"
+                        },
+    "latestDeadliestStreak":  {
+                                  "playerName":  "HonestBob",
+                                  "playerId":  "76561198025766687",
+                                  "value":  1,
+                                  "mapName":  "HÃRTGEN FOREST",
+                                  "mapId":  "hurtgenforest_warfare_V2_night",
+                                  "gameMode":  "Warfare",
+                                  "awardedAt":  "2026-09-05T04:23:07Z"
+                              },
+    "latestTopSupport":  {
+                             "playerName":  "SierraEcho",
+                             "playerId":  "76561198659510509",
+                             "value":  435,
+                             "mapName":  "MORTAIN",
+                             "mapId":  "mortain_skirmish_overcast",
+                             "gameMode":  "Skirmish",
+                             "awardedAt":  "2026-09-06T02:10:08Z"
+                         },
+    "allTimeKillRecord":  {
+                              "playerName":  "HonestBob",
+                              "playerId":  "76561198025766687",
+                              "value":  1,
+                              "mapName":  "HÃRTGEN FOREST",
+                              "mapId":  "hurtgenforest_warfare_V2_night",
+                              "gameMode":  "Warfare",
+                              "awardedAt":  "2026-09-05T04:23:07Z"
+                          },
+    "allTimeStreakRecord":  {
+                                "playerName":  "HonestBob",
+                                "playerId":  "76561198025766687",
+                                "value":  1,
+                                "mapName":  "HÃRTGEN FOREST",
+                                "mapId":  "hurtgenforest_warfare_V2_night",
+                                "gameMode":  "Warfare",
+                                "awardedAt":  "2026-09-05T04:23:07Z"
+                            }
 }
