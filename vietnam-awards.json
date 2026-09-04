@@ -1,19 +1,43 @@
 {
     "serverName":  "HLL: VIET NAM SERVER",
     "gameType":  "vietnam",
-    "updatedAt":  "2026-09-04T14:14:14Z",
-    "latestTopCombat":  null,
-    "latestTopKiller":  null,
-    "latestDeadliestStreak":  null,
+    "updatedAt":  "2026-09-19T18:17:35Z",
+    "latestTopCombat":  {
+                            "playerName":  "Gorillajoe11816",
+                            "playerId":  "0002150a74e54213895a5435265ee041",
+                            "value":  1600,
+                            "mapName":  "ÄÄK TÃ AIRFIELD",
+                            "mapId":  "wdevd_offensivenva_day",
+                            "gameMode":  "NVA Offensive",
+                            "awardedAt":  "2026-09-17T05:27:11Z"
+                        },
+    "latestTopKiller":  {
+                            "playerName":  "ReD_Reaping02",
+                            "value":  137,
+                            "awardedAt":  "2026-09-18T17:45:37Z"
+                        },
+    "latestDeadliestStreak":  {
+                                  "playerName":  "reflexnatedogg",
+                                  "value":  56,
+                                  "awardedAt":  "2026-09-18T17:45:37Z"
+                              },
     "latestTopSupport":  {
-                             "playerName":  "CptCracker",
-                             "playerId":  "00025f10e26541db8e9841feaa8a8c67",
-                             "value":  105,
-                             "mapName":  "THANH HÃA BRIDGE",
-                             "mapId":  "wdevf_domination_day",
-                             "gameMode":  "Domination",
-                             "awardedAt":  "2026-09-04T14:14:14Z"
+                             "playerName":  "SirNolas1062",
+                             "playerId":  "0002963cd62640fea2364b8f37e83b30",
+                             "value":  11460,
+                             "mapName":  "QUáº¢NG NGÃI",
+                             "mapId":  "wdevb_offensivenva_day",
+                             "gameMode":  "NVA Offensive",
+                             "awardedAt":  "2026-09-11T07:42:01Z"
                          },
-    "allTimeKillRecord":  null,
-    "allTimeStreakRecord":  null
+    "allTimeKillRecord":  {
+                              "playerName":  "ReD_Reaping02",
+                              "value":  137,
+                              "awardedAt":  "2026-09-18T17:45:37Z"
+                          },
+    "allTimeStreakRecord":  {
+                                "playerName":  "reflexnatedogg",
+                                "value":  56,
+                                "awardedAt":  "2026-09-18T17:45:37Z"
+                            }
 }
