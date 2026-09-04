@@ -1,27 +1,59 @@
 {
-  "serverName": "HLL: WWII SERVER",
-  "gameType": "wwii",
-  "updatedAt": "WWII BOARD TEST",
-  "latestTopCombat": {
-    "playerName": "COMBATTESTPLAYER",
-    "value": 1845,
-    "mapName": "ST MARIE DU MONT"
-  },
-  "latestTopKiller": {
-    "playerName": "KILLERTESTPLAYER",
-    "value": 72,
-    "mapName": "OMAHA BEACH"
-  },
-  "latestDeadliestStreak": {
-    "playerName": "STREAKTESTPLAYER",
-    "value": 19,
-    "mapName": "FOY"
-  },
-  "latestTopSupport": {
-    "playerName": "SUPPORTTESTPLAYER",
-    "value": 1260,
-    "mapName": "UTAH BEACH"
-  },
-  "allTimeKillRecord": null,
-  "allTimeStreakRecord": null
+    "serverName":  "HLL: WWII SERVER",
+    "gameType":  "wwii",
+    "updatedAt":  "2026-11-14T17:24:17Z",
+    "latestTopCombat":  {
+                            "playerName":  "Monkey Salad[TGL]",
+                            "playerId":  "76561198176759397",
+                            "value":  60,
+                            "mapName":  "EL ALAMEIN",
+                            "mapId":  "elalamein_offensive_CW",
+                            "gameMode":  "Offensive",
+                            "awardedAt":  "2026-11-14T17:24:17Z"
+                        },
+    "latestTopKiller":  {
+                            "playerName":  "Monkey Salad[TGL]",
+                            "playerId":  "76561198176759397",
+                            "value":  1,
+                            "mapName":  "EL ALAMEIN",
+                            "mapId":  "elalamein_offensive_CW",
+                            "gameMode":  "Offensive",
+                            "awardedAt":  "2026-11-14T17:24:17Z"
+                        },
+    "latestDeadliestStreak":  {
+                                  "playerName":  "Monkey Salad[TGL]",
+                                  "playerId":  "76561198176759397",
+                                  "value":  1,
+                                  "mapName":  "DRIEL",
+                                  "mapId":  "DRL_S_1944_P_Skirmish",
+                                  "gameMode":  "Skirmish",
+                                  "awardedAt":  "2026-11-14T17:24:14Z"
+                              },
+    "latestTopSupport":  {
+                             "playerName":  "Monkey Salad[TGL]",
+                             "playerId":  "76561198176759397",
+                             "value":  1455,
+                             "mapName":  "EL ALAMEIN",
+                             "mapId":  "elalamein_offensive_CW",
+                             "gameMode":  "Offensive",
+                             "awardedAt":  "2026-11-14T17:24:17Z"
+                         },
+    "allTimeKillRecord":  {
+                              "playerName":  "Magroober5",
+                              "playerId":  "76561199557847551",
+                              "value":  11,
+                              "mapName":  "PURPLE HEART LANE",
+                              "mapId":  "PHL_L_1944_Warfare_Night",
+                              "gameMode":  "Warfare",
+                              "awardedAt":  "2026-10-09T20:49:31Z"
+                          },
+    "allTimeStreakRecord":  {
+                                "playerName":  "Magroober5",
+                                "playerId":  "76561199557847551",
+                                "value":  5,
+                                "mapName":  "PURPLE HEART LANE",
+                                "mapId":  "PHL_L_1944_Warfare_Night",
+                                "gameMode":  "Warfare",
+                                "awardedAt":  "2026-10-09T20:49:31Z"
+                            }
 }
