@@ -1,27 +1,59 @@
 {
-  "serverName": "HLL: WWII SERVER",
-  "gameType": "wwii",
-  "updatedAt": "WWII BOARD TEST",
-  "latestTopCombat": {
-    "playerName": "COMBATTESTPLAYER",
-    "value": 1845,
-    "mapName": "ST MARIE DU MONT"
-  },
-  "latestTopKiller": {
-    "playerName": "KILLERTESTPLAYER",
-    "value": 72,
-    "mapName": "OMAHA BEACH"
-  },
-  "latestDeadliestStreak": {
-    "playerName": "STREAKTESTPLAYER",
-    "value": 19,
-    "mapName": "FOY"
-  },
-  "latestTopSupport": {
-    "playerName": "SUPPORTTESTPLAYER",
-    "value": 1260,
-    "mapName": "UTAH BEACH"
-  },
-  "allTimeKillRecord": null,
-  "allTimeStreakRecord": null
+    "serverName":  "HLL: WWII SERVER",
+    "gameType":  "wwii",
+    "updatedAt":  "2026-10-30T20:29:05Z",
+    "latestTopCombat":  {
+                            "playerName":  "Jerkulator",
+                            "playerId":  "76561198342028555",
+                            "value":  70,
+                            "mapName":  "JUNO BEACH",
+                            "mapId":  "junobeach_offensivecan_day",
+                            "gameMode":  "Offensive",
+                            "awardedAt":  "2026-10-25T20:08:14Z"
+                        },
+    "latestTopKiller":  {
+                            "playerName":  "Lightning McQueen",
+                            "playerId":  "76561198253137166",
+                            "value":  3,
+                            "mapName":  "TOBRUK",
+                            "mapId":  "tobruk_offensivebritish_morning",
+                            "gameMode":  "Offensive",
+                            "awardedAt":  "2026-10-23T22:11:41Z"
+                        },
+    "latestDeadliestStreak":  {
+                                  "playerName":  "::CONTI:: Conquero",
+                                  "playerId":  "76561198175136050",
+                                  "value":  2,
+                                  "mapName":  "TOBRUK",
+                                  "mapId":  "tobruk_offensivebritish_morning",
+                                  "gameMode":  "Offensive",
+                                  "awardedAt":  "2026-10-23T22:11:41Z"
+                              },
+    "latestTopSupport":  {
+                             "playerName":  "LazyRidley",
+                             "playerId":  "1729b64d7d9f33dfa4848f8d49dc9ce2",
+                             "value":  30,
+                             "mapName":  "CARENTAN",
+                             "mapId":  "carentan_warfare",
+                             "gameMode":  "Warfare",
+                             "awardedAt":  "2026-10-30T20:29:05Z"
+                         },
+    "allTimeKillRecord":  {
+                              "playerName":  "Magroober5",
+                              "playerId":  "76561199557847551",
+                              "value":  11,
+                              "mapName":  "PURPLE HEART LANE",
+                              "mapId":  "PHL_L_1944_Warfare_Night",
+                              "gameMode":  "Warfare",
+                              "awardedAt":  "2026-10-09T20:49:31Z"
+                          },
+    "allTimeStreakRecord":  {
+                                "playerName":  "Magroober5",
+                                "playerId":  "76561199557847551",
+                                "value":  5,
+                                "mapName":  "PURPLE HEART LANE",
+                                "mapId":  "PHL_L_1944_Warfare_Night",
+                                "gameMode":  "Warfare",
+                                "awardedAt":  "2026-10-09T20:49:31Z"
+                            }
 }
