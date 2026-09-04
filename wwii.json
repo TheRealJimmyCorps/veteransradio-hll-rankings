@@ -1,16 +1,54 @@
 {
     "serverName":  "HLL: WWII SERVER",
     "gameType":  "wwii",
-    "updatedAt":  "",
+    "updatedAt":  "2026-10-10T17:40:33Z",
     "online":  true,
-    "playerCount":  0,
+    "playerCount":  1,
     "maxPlayerCount":  100,
-    "mapName":  "MORTAIN",
+    "mapName":  "ELSENBORN RIDGE",
     "gameMode":  "Skirmish",
     "totalKills":  [
-
+                       {
+                           "rank":  1,
+                           "name":  "Magroober5",
+                           "value":  11
+                       },
+                       {
+                           "rank":  2,
+                           "name":  "hamsterdog48",
+                           "value":  3
+                       },
+                       {
+                           "rank":  3,
+                           "name":  "HonestBob",
+                           "value":  1
+                       },
+                       {
+                           "rank":  4,
+                           "name":  "ãÃ±ãdrÃ©s",
+                           "value":  1
+                       }
                    ],
     "killStreaks":  [
-
+                        {
+                            "rank":  1,
+                            "name":  "Magroober5",
+                            "value":  5
+                        },
+                        {
+                            "rank":  2,
+                            "name":  "hamsterdog48",
+                            "value":  2
+                        },
+                        {
+                            "rank":  3,
+                            "name":  "HonestBob",
+                            "value":  1
+                        },
+                        {
+                            "rank":  4,
+                            "name":  "ãÃ±ãdrÃ©s",
+                            "value":  1
+                        }
                     ]
 }

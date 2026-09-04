@@ -1,1014 +1,1014 @@
 {
     "serverName":  "HLL: VIET NAM SERVER",
     "gameType":  "vietnam",
-    "updatedAt":  "2026-09-01T02:18:39Z",
+    "updatedAt":  "2026-10-10T05:24:13Z",
     "online":  true,
     "playerCount":  0,
     "maxPlayerCount":  100,
-    "mapName":  "QUáº¢NG NGÃI",
-    "gameMode":  "Conquest",
+    "mapName":  "HUáº¾ OUTSKIRTS",
+    "gameMode":  "NVA Offensive",
     "totalKills":  [
                        {
                            "rank":  1,
+                           "name":  "Disco",
+                           "value":  264
+                       },
+                       {
+                           "rank":  2,
+                           "name":  "DaddyBuck429",
+                           "value":  192
+                       },
+                       {
+                           "rank":  3,
+                           "name":  "Militant Dj",
+                           "value":  176
+                       },
+                       {
+                           "rank":  4,
+                           "name":  "xXPattysbXx",
+                           "value":  175
+                       },
+                       {
+                           "rank":  5,
+                           "name":  "King_Scope_55",
+                           "value":  174
+                       },
+                       {
+                           "rank":  6,
+                           "name":  "BeastlyTexan110",
+                           "value":  159
+                       },
+                       {
+                           "rank":  7,
+                           "name":  "NEWBYBRO",
+                           "value":  148
+                       },
+                       {
+                           "rank":  8,
+                           "name":  "FlyingBurritos2",
+                           "value":  142
+                       },
+                       {
+                           "rank":  9,
+                           "name":  "Tycoon",
+                           "value":  141
+                       },
+                       {
+                           "rank":  10,
+                           "name":  "ReD_Reaping02",
+                           "value":  137
+                       },
+                       {
+                           "rank":  11,
+                           "name":  "Robinyohouse104",
+                           "value":  134
+                       },
+                       {
+                           "rank":  12,
+                           "name":  "SweetHoneyNuggs",
+                           "value":  127
+                       },
+                       {
+                           "rank":  13,
+                           "name":  "PeeK_aa_Boo_ish",
+                           "value":  125
+                       },
+                       {
+                           "rank":  14,
+                           "name":  "XxEliteWolfxX22",
+                           "value":  122
+                       },
+                       {
+                           "rank":  15,
+                           "name":  "Sith",
+                           "value":  121
+                       },
+                       {
+                           "rank":  16,
+                           "name":  "[5ID] SPC. Hunglow",
+                           "value":  120
+                       },
+                       {
+                           "rank":  17,
+                           "name":  "chandler.benjamin67",
+                           "value":  120
+                       },
+                       {
+                           "rank":  18,
+                           "name":  "RainBlood99",
+                           "value":  119
+                       },
+                       {
+                           "rank":  19,
+                           "name":  "Fu-Schnickens",
+                           "value":  118
+                       },
+                       {
+                           "rank":  20,
+                           "name":  "Forbes",
+                           "value":  114
+                       },
+                       {
+                           "rank":  21,
+                           "name":  "nzabrow",
+                           "value":  110
+                       },
+                       {
+                           "rank":  22,
+                           "name":  "Runhtz",
+                           "value":  110
+                       },
+                       {
+                           "rank":  23,
+                           "name":  "Majin_Ritchiie",
+                           "value":  107
+                       },
+                       {
+                           "rank":  24,
+                           "name":  "ChampClay18",
+                           "value":  106
+                       },
+                       {
+                           "rank":  25,
+                           "name":  "K00ksRus",
+                           "value":  106
+                       },
+                       {
+                           "rank":  26,
+                           "name":  "Suspicious - Toaster",
+                           "value":  106
+                       },
+                       {
+                           "rank":  27,
+                           "name":  "Alliraz426",
+                           "value":  105
+                       },
+                       {
+                           "rank":  28,
+                           "name":  "CMDR.COMPTON",
+                           "value":  105
+                       },
+                       {
+                           "rank":  29,
+                           "name":  "Rick Sanchez",
+                           "value":  105
+                       },
+                       {
+                           "rank":  30,
+                           "name":  "TenBasilisk8256",
+                           "value":  105
+                       },
+                       {
+                           "rank":  31,
+                           "name":  "Tombstone110",
+                           "value":  105
+                       },
+                       {
+                           "rank":  32,
+                           "name":  "ImGr3gg",
+                           "value":  103
+                       },
+                       {
+                           "rank":  33,
+                           "name":  "Clout_AC",
+                           "value":  101
+                       },
+                       {
+                           "rank":  34,
+                           "name":  "HORTON2SWOLE",
+                           "value":  101
+                       },
+                       {
+                           "rank":  35,
+                           "name":  "DeathProof",
+                           "value":  100
+                       },
+                       {
+                           "rank":  36,
+                           "name":  "HarlyQuinn69",
+                           "value":  98
+                       },
+                       {
+                           "rank":  37,
+                           "name":  "cutefemboy3ttv",
+                           "value":  97
+                       },
+                       {
+                           "rank":  38,
+                           "name":  "Dupes",
+                           "value":  95
+                       },
+                       {
+                           "rank":  39,
+                           "name":  "Nightmare",
+                           "value":  95
+                       },
+                       {
+                           "rank":  40,
+                           "name":  "Reconsniper1109",
+                           "value":  95
+                       },
+                       {
+                           "rank":  41,
+                           "name":  "BasiDialBreaD",
+                           "value":  94
+                       },
+                       {
+                           "rank":  42,
+                           "name":  "Darth Imperatus",
+                           "value":  94
+                       },
+                       {
+                           "rank":  43,
+                           "name":  "Masteroogway992",
+                           "value":  94
+                       },
+                       {
+                           "rank":  44,
+                           "name":  "I Throw Fat Chicks",
+                           "value":  93
+                       },
+                       {
+                           "rank":  45,
+                           "name":  "JWillyCold",
+                           "value":  93
+                       },
+                       {
+                           "rank":  46,
+                           "name":  "Kilam103",
+                           "value":  93
+                       },
+                       {
+                           "rank":  47,
+                           "name":  "Lord Kroak",
+                           "value":  93
+                       },
+                       {
+                           "rank":  48,
+                           "name":  "cheese250",
+                           "value":  92
+                       },
+                       {
+                           "rank":  49,
+                           "name":  "FrodoFaggins97",
+                           "value":  92
+                       },
+                       {
+                           "rank":  50,
+                           "name":  "EclequlnoX",
+                           "value":  91
+                       },
+                       {
+                           "rank":  51,
+                           "name":  "Trip6fu",
+                           "value":  91
+                       },
+                       {
+                           "rank":  52,
+                           "name":  "MushroomMan8540",
+                           "value":  90
+                       },
+                       {
+                           "rank":  53,
+                           "name":  "Zymzf",
+                           "value":  90
+                       },
+                       {
+                           "rank":  54,
+                           "name":  "Beastmode047619",
+                           "value":  89
+                       },
+                       {
+                           "rank":  55,
+                           "name":  "ImWoozyTV",
+                           "value":  87
+                       },
+                       {
+                           "rank":  56,
+                           "name":  "MRVN-Shaggy710",
+                           "value":  87
+                       },
+                       {
+                           "rank":  57,
+                           "name":  "Buttonfury",
+                           "value":  86
+                       },
+                       {
+                           "rank":  58,
+                           "name":  "Jet Life",
+                           "value":  86
+                       },
+                       {
+                           "rank":  59,
+                           "name":  "MEAT__DADDY_",
+                           "value":  86
+                       },
+                       {
+                           "rank":  60,
+                           "name":  "fordtuffer",
+                           "value":  85
+                       },
+                       {
+                           "rank":  61,
+                           "name":  "Smoked Doobz",
+                           "value":  85
+                       },
+                       {
+                           "rank":  62,
+                           "name":  "Kari",
+                           "value":  84
+                       },
+                       {
+                           "rank":  63,
+                           "name":  "palmeoliver",
+                           "value":  84
+                       },
+                       {
+                           "rank":  64,
                            "name":  "Phauxelate",
                            "value":  84
                        },
                        {
-                           "rank":  2,
-                           "name":  "Cows",
-                           "value":  61
-                       },
-                       {
-                           "rank":  3,
-                           "name":  "GBuchanan 96",
-                           "value":  52
-                       },
-                       {
-                           "rank":  4,
-                           "name":  "Fax Machine",
-                           "value":  43
-                       },
-                       {
-                           "rank":  5,
-                           "name":  "SlimCognito50",
-                           "value":  41
-                       },
-                       {
-                           "rank":  6,
-                           "name":  "Horscht B3322",
-                           "value":  40
-                       },
-                       {
-                           "rank":  7,
-                           "name":  "EgirlExtract",
-                           "value":  39
-                       },
-                       {
-                           "rank":  8,
-                           "name":  "malachy13donovan",
-                           "value":  37
-                       },
-                       {
-                           "rank":  9,
-                           "name":  "highestshooter1",
-                           "value":  35
-                       },
-                       {
-                           "rank":  10,
-                           "name":  "PhenomenalEXP",
-                           "value":  35
-                       },
-                       {
-                           "rank":  11,
-                           "name":  "MistrMicrowave",
-                           "value":  34
-                       },
-                       {
-                           "rank":  12,
-                           "name":  "BigPushy",
-                           "value":  33
-                       },
-                       {
-                           "rank":  13,
-                           "name":  "DrButternubsJrMD",
-                           "value":  33
-                       },
-                       {
-                           "rank":  14,
-                           "name":  "IDK_LMOB",
-                           "value":  31
-                       },
-                       {
-                           "rank":  15,
-                           "name":  "KDot",
-                           "value":  30
-                       },
-                       {
-                           "rank":  16,
-                           "name":  "chad.s.johnson356@ho",
-                           "value":  29
-                       },
-                       {
-                           "rank":  17,
-                           "name":  "Shakespeare",
-                           "value":  28
-                       },
-                       {
-                           "rank":  18,
-                           "name":  "bemidji_boi",
-                           "value":  27
-                       },
-                       {
-                           "rank":  19,
-                           "name":  "WiMoTrip",
-                           "value":  26
-                       },
-                       {
-                           "rank":  20,
-                           "name":  "AssVirus",
-                           "value":  23
-                       },
-                       {
-                           "rank":  21,
-                           "name":  "gmods5995",
-                           "value":  23
-                       },
-                       {
-                           "rank":  22,
-                           "name":  "Gumby",
-                           "value":  23
-                       },
-                       {
-                           "rank":  23,
-                           "name":  "specter1159",
-                           "value":  21
-                       },
-                       {
-                           "rank":  24,
-                           "name":  "StukaSam44",
-                           "value":  21
-                       },
-                       {
-                           "rank":  25,
-                           "name":  "BDanzerrr12",
-                           "value":  20
-                       },
-                       {
-                           "rank":  26,
-                           "name":  "LateWizard21",
-                           "value":  20
-                       },
-                       {
-                           "rank":  27,
-                           "name":  "lip_ripper_god",
-                           "value":  20
-                       },
-                       {
-                           "rank":  28,
-                           "name":  "RNG sexy texas",
-                           "value":  20
-                       },
-                       {
-                           "rank":  29,
-                           "name":  "Rogue_Warrior131",
-                           "value":  20
-                       },
-                       {
-                           "rank":  30,
-                           "name":  "Ross19Slayer",
-                           "value":  20
-                       },
-                       {
-                           "rank":  31,
-                           "name":  "ShotHorsemen4",
-                           "value":  20
-                       },
-                       {
-                           "rank":  32,
-                           "name":  "Sneeze",
-                           "value":  20
-                       },
-                       {
-                           "rank":  33,
-                           "name":  "Brazzers:P",
-                           "value":  19
-                       },
-                       {
-                           "rank":  34,
-                           "name":  "Daledoe1213",
-                           "value":  19
-                       },
-                       {
-                           "rank":  35,
-                           "name":  "Diehard4077",
-                           "value":  19
-                       },
-                       {
-                           "rank":  36,
-                           "name":  "Mili man",
-                           "value":  19
-                       },
-                       {
-                           "rank":  37,
-                           "name":  "REDNECKDAN89",
-                           "value":  19
-                       },
-                       {
-                           "rank":  38,
-                           "name":  "TheBus_6478",
-                           "value":  19
-                       },
-                       {
-                           "rank":  39,
-                           "name":  "WeBePrintinMoney",
-                           "value":  19
-                       },
-                       {
-                           "rank":  40,
-                           "name":  "Dexterous",
-                           "value":  18
-                       },
-                       {
-                           "rank":  41,
-                           "name":  "guldagervej9670",
-                           "value":  18
-                       },
-                       {
-                           "rank":  42,
-                           "name":  "NerdNoob",
-                           "value":  18
-                       },
-                       {
-                           "rank":  43,
-                           "name":  "AmpHvyNutzDidyy",
-                           "value":  17
-                       },
-                       {
-                           "rank":  44,
-                           "name":  "KG5MUSEE",
-                           "value":  17
-                       },
-                       {
-                           "rank":  45,
-                           "name":  "Rolling-Thunder17",
-                           "value":  17
-                       },
-                       {
-                           "rank":  46,
-                           "name":  "Skunkymonkey619",
-                           "value":  17
-                       },
-                       {
-                           "rank":  47,
-                           "name":  "SmashedPoet229",
-                           "value":  17
-                       },
-                       {
-                           "rank":  48,
-                           "name":  "Ghost",
-                           "value":  16
-                       },
-                       {
-                           "rank":  49,
-                           "name":  "HammerHead",
-                           "value":  16
-                       },
-                       {
-                           "rank":  50,
-                           "name":  "Slaytanic",
-                           "value":  16
-                       },
-                       {
-                           "rank":  51,
-                           "name":  "ULTGME",
-                           "value":  16
-                       },
-                       {
-                           "rank":  52,
-                           "name":  "Wooly",
-                           "value":  16
-                       },
-                       {
-                           "rank":  53,
-                           "name":  "Dark_Serpent04",
-                           "value":  15
-                       },
-                       {
-                           "rank":  54,
-                           "name":  "Mietch",
-                           "value":  15
-                       },
-                       {
-                           "rank":  55,
-                           "name":  "SANCHO",
-                           "value":  15
-                       },
-                       {
-                           "rank":  56,
-                           "name":  "TheAngryOrc",
-                           "value":  15
-                       },
-                       {
-                           "rank":  57,
-                           "name":  "DripDropper32",
-                           "value":  14
-                       },
-                       {
-                           "rank":  58,
-                           "name":  "Kepler421",
-                           "value":  14
-                       },
-                       {
-                           "rank":  59,
-                           "name":  "Kingspade029",
-                           "value":  14
-                       },
-                       {
-                           "rank":  60,
-                           "name":  "Oldest_Player72",
-                           "value":  14
-                       },
-                       {
-                           "rank":  61,
-                           "name":  "Resolved Slate",
-                           "value":  14
-                       },
-                       {
-                           "rank":  62,
-                           "name":  "s1s64",
-                           "value":  14
-                       },
-                       {
-                           "rank":  63,
-                           "name":  "complex-belief",
-                           "value":  13
-                       },
-                       {
-                           "rank":  64,
-                           "name":  "Duckmaster88421",
-                           "value":  13
-                       },
-                       {
                            "rank":  65,
-                           "name":  "MommySlayer4535",
-                           "value":  13
+                           "name":  "Usualminer221",
+                           "value":  84
                        },
                        {
                            "rank":  66,
-                           "name":  "PWolf745",
-                           "value":  13
+                           "name":  "DanToriouS",
+                           "value":  83
                        },
                        {
                            "rank":  67,
-                           "name":  "THEGOAT8178",
-                           "value":  13
+                           "name":  "JCoop723",
+                           "value":  83
                        },
                        {
                            "rank":  68,
-                           "name":  "BeanSamurai3700",
-                           "value":  12
+                           "name":  "Musty42069",
+                           "value":  83
                        },
                        {
                            "rank":  69,
-                           "name":  "Big Willie Smit",
-                           "value":  12
+                           "name":  "WokaaWokaa",
+                           "value":  83
                        },
                        {
                            "rank":  70,
-                           "name":  "Digitex_mate",
-                           "value":  12
+                           "name":  "CODxReFLeXZz",
+                           "value":  82
                        },
                        {
                            "rank":  71,
-                           "name":  "g4sXm0nk3yX",
-                           "value":  12
+                           "name":  "CronicBushwhaCK",
+                           "value":  81
                        },
                        {
                            "rank":  72,
-                           "name":  "Killswitch77276",
-                           "value":  12
+                           "name":  "Jamey",
+                           "value":  81
                        },
                        {
                            "rank":  73,
-                           "name":  "M00SE DO IT 17",
-                           "value":  12
+                           "name":  "Jms21267",
+                           "value":  81
                        },
                        {
                            "rank":  74,
-                           "name":  "Nuclear Tiddy",
-                           "value":  12
+                           "name":  "SugarFiveZer0",
+                           "value":  81
                        },
                        {
                            "rank":  75,
-                           "name":  "The-boomyster",
-                           "value":  12
+                           "name":  "ZamorakianScum",
+                           "value":  81
                        },
                        {
                            "rank":  76,
-                           "name":  "ç²ç²è¸éå¿«éä¸è",
-                           "value":  12
+                           "name":  "Dixey Normuz",
+                           "value":  80
                        },
                        {
                            "rank":  77,
-                           "name":  "BMG_Thugnificent",
-                           "value":  11
+                           "name":  "fightklb",
+                           "value":  80
                        },
                        {
                            "rank":  78,
-                           "name":  "JaxonBot13",
-                           "value":  11
+                           "name":  "hilltopkilla5",
+                           "value":  80
                        },
                        {
                            "rank":  79,
-                           "name":  "MartinVanBuren",
-                           "value":  11
+                           "name":  "Mr. Brewer",
+                           "value":  80
                        },
                        {
                            "rank":  80,
-                           "name":  "o0alpine0o",
-                           "value":  11
+                           "name":  "PREACHER1012513",
+                           "value":  80
                        },
                        {
                            "rank":  81,
-                           "name":  "snowman",
-                           "value":  11
+                           "name":  "Dr. Toboggan",
+                           "value":  79
                        },
                        {
                            "rank":  82,
-                           "name":  "The Airvector",
-                           "value":  11
+                           "name":  "XShadySimpX1",
+                           "value":  79
                        },
                        {
                            "rank":  83,
-                           "name":  "Torrasque",
-                           "value":  11
+                           "name":  "YoungGandhi_V2",
+                           "value":  79
                        },
                        {
                            "rank":  84,
-                           "name":  "TreyA-311",
-                           "value":  11
+                           "name":  "CptnRedBush",
+                           "value":  78
                        },
                        {
                            "rank":  85,
-                           "name":  "Babushka Boi",
-                           "value":  10
+                           "name":  "ngmi",
+                           "value":  78
                        },
                        {
                            "rank":  86,
-                           "name":  "Big_Hoss7226",
-                           "value":  10
+                           "name":  "SixFIesh",
+                           "value":  78
                        },
                        {
                            "rank":  87,
-                           "name":  "bigbrum",
-                           "value":  10
+                           "name":  "Agent Sushi 132",
+                           "value":  77
                        },
                        {
                            "rank":  88,
-                           "name":  "Conker2119",
-                           "value":  10
+                           "name":  "BigosFamily132",
+                           "value":  77
                        },
                        {
                            "rank":  89,
-                           "name":  "Dickson_Ciderrr_",
-                           "value":  10
+                           "name":  "Doubles-86-",
+                           "value":  77
                        },
                        {
                            "rank":  90,
-                           "name":  "Dilos Zun Kaal",
-                           "value":  10
+                           "name":  "FlimsyHearing",
+                           "value":  77
                        },
                        {
                            "rank":  91,
-                           "name":  "Fentenyahu",
-                           "value":  10
+                           "name":  "LITE_69_V",
+                           "value":  77
                        },
                        {
                            "rank":  92,
-                           "name":  "FrostyTheFuckman",
-                           "value":  10
+                           "name":  "Prowler_-_Gaming",
+                           "value":  77
                        },
                        {
                            "rank":  93,
-                           "name":  "s0m3h0b0 l",
-                           "value":  10
+                           "name":  "RestiveAura14",
+                           "value":  77
                        },
                        {
                            "rank":  94,
-                           "name":  "Azap98",
-                           "value":  9
+                           "name":  "NattyyMongoose",
+                           "value":  76
                        },
                        {
                            "rank":  95,
-                           "name":  "DavidKelly197",
-                           "value":  9
+                           "name":  "R3i",
+                           "value":  75
                        },
                        {
                            "rank":  96,
-                           "name":  "K1LLJOY_98",
-                           "value":  9
+                           "name":  "JumpyMonkey79",
+                           "value":  74
                        },
                        {
                            "rank":  97,
-                           "name":  "luckymann133",
-                           "value":  9
+                           "name":  "SledgeHammer",
+                           "value":  74
                        },
                        {
                            "rank":  98,
-                           "name":  "Rudedogg857",
-                           "value":  9
+                           "name":  "Acid_Pat_94",
+                           "value":  73
                        },
                        {
                            "rank":  99,
-                           "name":  "Blue_Riptide",
-                           "value":  8
+                           "name":  "Blue_XAlphaTroop",
+                           "value":  73
                        },
                        {
                            "rank":  100,
-                           "name":  "gabegarn",
-                           "value":  8
+                           "name":  "FULLCOMMUNISM",
+                           "value":  73
                        }
                    ],
     "killStreaks":  [
                         {
                             "rank":  1,
+                            "name":  "Robinyohouse104",
+                            "value":  77
+                        },
+                        {
+                            "rank":  2,
+                            "name":  "Reconsniper1109",
+                            "value":  70
+                        },
+                        {
+                            "rank":  3,
+                            "name":  "RainBlood99",
+                            "value":  63
+                        },
+                        {
+                            "rank":  4,
+                            "name":  "reflexnatedogg",
+                            "value":  56
+                        },
+                        {
+                            "rank":  5,
+                            "name":  "Tribzi",
+                            "value":  55
+                        },
+                        {
+                            "rank":  6,
+                            "name":  "HORTON2SWOLE",
+                            "value":  53
+                        },
+                        {
+                            "rank":  7,
+                            "name":  "King_Scope_55",
+                            "value":  53
+                        },
+                        {
+                            "rank":  8,
+                            "name":  "YoloMcSwaggans",
+                            "value":  51
+                        },
+                        {
+                            "rank":  9,
+                            "name":  "JWillyCold",
+                            "value":  50
+                        },
+                        {
+                            "rank":  10,
+                            "name":  "Dank_Hunter2468",
+                            "value":  47
+                        },
+                        {
+                            "rank":  11,
+                            "name":  "NEWBYBRO",
+                            "value":  47
+                        },
+                        {
+                            "rank":  12,
+                            "name":  "PeeK_aa_Boo_ish",
+                            "value":  45
+                        },
+                        {
+                            "rank":  13,
+                            "name":  "xXPattysbXx",
+                            "value":  45
+                        },
+                        {
+                            "rank":  14,
+                            "name":  "LITE_69_V",
+                            "value":  44
+                        },
+                        {
+                            "rank":  15,
+                            "name":  "SixFIesh",
+                            "value":  44
+                        },
+                        {
+                            "rank":  16,
                             "name":  "Fax Machine",
                             "value":  43
                         },
                         {
-                            "rank":  2,
+                            "rank":  17,
+                            "name":  "Fu-Schnickens",
+                            "value":  43
+                        },
+                        {
+                            "rank":  18,
+                            "name":  "Keithdog",
+                            "value":  42
+                        },
+                        {
+                            "rank":  19,
+                            "name":  "SovietChunky",
+                            "value":  42
+                        },
+                        {
+                            "rank":  20,
                             "name":  "Cows",
                             "value":  41
                         },
                         {
-                            "rank":  3,
+                            "rank":  21,
+                            "name":  "CUT TEACHER PAY",
+                            "value":  41
+                        },
+                        {
+                            "rank":  22,
+                            "name":  "TenBasilisk8256",
+                            "value":  41
+                        },
+                        {
+                            "rank":  23,
+                            "name":  "kevinbon",
+                            "value":  40
+                        },
+                        {
+                            "rank":  24,
+                            "name":  "Mercado Libre",
+                            "value":  39
+                        },
+                        {
+                            "rank":  25,
+                            "name":  "SweetHoneyNuggs",
+                            "value":  39
+                        },
+                        {
+                            "rank":  26,
+                            "name":  "XxEliteWolfxX22",
+                            "value":  39
+                        },
+                        {
+                            "rank":  27,
+                            "name":  "Blue_XAlphaTroop",
+                            "value":  38
+                        },
+                        {
+                            "rank":  28,
+                            "name":  "cutefemboy3ttv",
+                            "value":  37
+                        },
+                        {
+                            "rank":  29,
+                            "name":  "HULK1870",
+                            "value":  37
+                        },
+                        {
+                            "rank":  30,
+                            "name":  "K00ksRus",
+                            "value":  37
+                        },
+                        {
+                            "rank":  31,
+                            "name":  "Kilam103",
+                            "value":  37
+                        },
+                        {
+                            "rank":  32,
+                            "name":  "ninjakiwi2305",
+                            "value":  37
+                        },
+                        {
+                            "rank":  33,
+                            "name":  "areolagrande",
+                            "value":  36
+                        },
+                        {
+                            "rank":  34,
+                            "name":  "BoozieBadazz",
+                            "value":  36
+                        },
+                        {
+                            "rank":  35,
+                            "name":  "Dblank92",
+                            "value":  36
+                        },
+                        {
+                            "rank":  36,
+                            "name":  "Jms21267",
+                            "value":  36
+                        },
+                        {
+                            "rank":  37,
+                            "name":  "PagedCypress470",
+                            "value":  36
+                        },
+                        {
+                            "rank":  38,
+                            "name":  "palmeoliver",
+                            "value":  36
+                        },
+                        {
+                            "rank":  39,
+                            "name":  "Chaseaway7",
+                            "value":  35
+                        },
+                        {
+                            "rank":  40,
+                            "name":  "DarthLord",
+                            "value":  35
+                        },
+                        {
+                            "rank":  41,
+                            "name":  "ImWoozyTV",
+                            "value":  35
+                        },
+                        {
+                            "rank":  42,
+                            "name":  "Darth Imperatus",
+                            "value":  34
+                        },
+                        {
+                            "rank":  43,
+                            "name":  "Gorillajoe11816",
+                            "value":  34
+                        },
+                        {
+                            "rank":  44,
+                            "name":  "Purple_Dude_Guy",
+                            "value":  34
+                        },
+                        {
+                            "rank":  45,
+                            "name":  "CMDR.COMPTON",
+                            "value":  33
+                        },
+                        {
+                            "rank":  46,
+                            "name":  "DaddyBuck429",
+                            "value":  33
+                        },
+                        {
+                            "rank":  47,
+                            "name":  "GangsterREED",
+                            "value":  33
+                        },
+                        {
+                            "rank":  48,
+                            "name":  "SugarFiveZer0",
+                            "value":  32
+                        },
+                        {
+                            "rank":  49,
+                            "name":  "TUGBOAT1319",
+                            "value":  32
+                        },
+                        {
+                            "rank":  50,
+                            "name":  "[PHR] Watermelon",
+                            "value":  31
+                        },
+                        {
+                            "rank":  51,
+                            "name":  "hounddog666",
+                            "value":  31
+                        },
+                        {
+                            "rank":  52,
+                            "name":  "kropk223",
+                            "value":  31
+                        },
+                        {
+                            "rank":  53,
+                            "name":  "SaiyanMan14",
+                            "value":  31
+                        },
+                        {
+                            "rank":  54,
+                            "name":  "Usualminer221",
+                            "value":  31
+                        },
+                        {
+                            "rank":  55,
+                            "name":  "Wrangler1879",
+                            "value":  31
+                        },
+                        {
+                            "rank":  56,
+                            "name":  "atomic-test5",
+                            "value":  30
+                        },
+                        {
+                            "rank":  57,
+                            "name":  "frosty10",
+                            "value":  30
+                        },
+                        {
+                            "rank":  58,
+                            "name":  "Heated Furnace",
+                            "value":  30
+                        },
+                        {
+                            "rank":  59,
+                            "name":  "JumpyMonkey79",
+                            "value":  30
+                        },
+                        {
+                            "rank":  60,
+                            "name":  "RockEater7593",
+                            "value":  30
+                        },
+                        {
+                            "rank":  61,
+                            "name":  "Concord",
+                            "value":  29
+                        },
+                        {
+                            "rank":  62,
+                            "name":  "j0hn12128",
+                            "value":  29
+                        },
+                        {
+                            "rank":  63,
+                            "name":  "Tang",
+                            "value":  29
+                        },
+                        {
+                            "rank":  64,
+                            "name":  "Disco",
+                            "value":  28
+                        },
+                        {
+                            "rank":  65,
+                            "name":  "gotsmilk9",
+                            "value":  28
+                        },
+                        {
+                            "rank":  66,
                             "name":  "Horscht B3322",
                             "value":  28
                         },
                         {
-                            "rank":  4,
-                            "name":  "LateWizard21",
-                            "value":  20
-                        },
-                        {
-                            "rank":  5,
-                            "name":  "Phauxelate",
-                            "value":  18
-                        },
-                        {
-                            "rank":  6,
-                            "name":  "BigPushy",
-                            "value":  14
-                        },
-                        {
-                            "rank":  7,
-                            "name":  "NerdNoob",
-                            "value":  14
-                        },
-                        {
-                            "rank":  8,
-                            "name":  "malachy13donovan",
-                            "value":  13
-                        },
-                        {
-                            "rank":  9,
-                            "name":  "SlimCognito50",
-                            "value":  13
-                        },
-                        {
-                            "rank":  10,
-                            "name":  "EgirlExtract",
-                            "value":  12
-                        },
-                        {
-                            "rank":  11,
-                            "name":  "lip_ripper_god",
-                            "value":  12
-                        },
-                        {
-                            "rank":  12,
-                            "name":  "Rogue_Warrior131",
-                            "value":  12
-                        },
-                        {
-                            "rank":  13,
-                            "name":  "Shakespeare",
-                            "value":  12
-                        },
-                        {
-                            "rank":  14,
-                            "name":  "WiMoTrip",
-                            "value":  12
-                        },
-                        {
-                            "rank":  15,
-                            "name":  "bemidji_boi",
-                            "value":  10
-                        },
-                        {
-                            "rank":  16,
-                            "name":  "GBuchanan 96",
-                            "value":  10
-                        },
-                        {
-                            "rank":  17,
-                            "name":  "Mili man",
-                            "value":  10
-                        },
-                        {
-                            "rank":  18,
-                            "name":  "g4sXm0nk3yX",
-                            "value":  9
-                        },
-                        {
-                            "rank":  19,
-                            "name":  "guldagervej9670",
-                            "value":  9
-                        },
-                        {
-                            "rank":  20,
-                            "name":  "IDK_LMOB",
-                            "value":  9
-                        },
-                        {
-                            "rank":  21,
-                            "name":  "s0m3h0b0 l",
-                            "value":  9
-                        },
-                        {
-                            "rank":  22,
-                            "name":  "SANCHO",
-                            "value":  9
-                        },
-                        {
-                            "rank":  23,
-                            "name":  "KDot",
-                            "value":  8
-                        },
-                        {
-                            "rank":  24,
-                            "name":  "Radicalization",
-                            "value":  8
-                        },
-                        {
-                            "rank":  25,
-                            "name":  "RNG sexy texas",
-                            "value":  8
-                        },
-                        {
-                            "rank":  26,
-                            "name":  "s1s64",
-                            "value":  8
-                        },
-                        {
-                            "rank":  27,
-                            "name":  "AmpHvyNutzDidyy",
-                            "value":  7
-                        },
-                        {
-                            "rank":  28,
-                            "name":  "BeanSamurai3700",
-                            "value":  7
-                        },
-                        {
-                            "rank":  29,
-                            "name":  "Big Willie Smit",
-                            "value":  7
-                        },
-                        {
-                            "rank":  30,
-                            "name":  "Dickson_Ciderrr_",
-                            "value":  7
-                        },
-                        {
-                            "rank":  31,
-                            "name":  "gmods5995",
-                            "value":  7
-                        },
-                        {
-                            "rank":  32,
-                            "name":  "Oldest_Player72",
-                            "value":  7
-                        },
-                        {
-                            "rank":  33,
-                            "name":  "specter1159",
-                            "value":  7
-                        },
-                        {
-                            "rank":  34,
-                            "name":  "TrollEmH2",
-                            "value":  7
-                        },
-                        {
-                            "rank":  35,
-                            "name":  "Asianwarrior",
-                            "value":  6
-                        },
-                        {
-                            "rank":  36,
-                            "name":  "bigbrum",
-                            "value":  6
-                        },
-                        {
-                            "rank":  37,
-                            "name":  "chad.s.johnson356@ho",
-                            "value":  6
-                        },
-                        {
-                            "rank":  38,
-                            "name":  "GunRaider48",
-                            "value":  6
-                        },
-                        {
-                            "rank":  39,
-                            "name":  "HammerHead",
-                            "value":  6
-                        },
-                        {
-                            "rank":  40,
-                            "name":  "MistrMicrowave",
-                            "value":  6
-                        },
-                        {
-                            "rank":  41,
-                            "name":  "ShotHorsemen4",
-                            "value":  6
-                        },
-                        {
-                            "rank":  42,
-                            "name":  "Slaytanic",
-                            "value":  6
-                        },
-                        {
-                            "rank":  43,
-                            "name":  "Sneeze",
-                            "value":  6
-                        },
-                        {
-                            "rank":  44,
-                            "name":  "StukaSam44",
-                            "value":  6
-                        },
-                        {
-                            "rank":  45,
-                            "name":  "TheAngryOrc",
-                            "value":  6
-                        },
-                        {
-                            "rank":  46,
-                            "name":  "Wordsmith74",
-                            "value":  6
-                        },
-                        {
-                            "rank":  47,
-                            "name":  "Zachybabyy",
-                            "value":  6
-                        },
-                        {
-                            "rank":  48,
-                            "name":  "BMG_Thugnificent",
-                            "value":  5
-                        },
-                        {
-                            "rank":  49,
-                            "name":  "Brazzers:P",
-                            "value":  5
-                        },
-                        {
-                            "rank":  50,
-                            "name":  "DavidKelly197",
-                            "value":  5
-                        },
-                        {
-                            "rank":  51,
-                            "name":  "Diehard4077",
-                            "value":  5
-                        },
-                        {
-                            "rank":  52,
-                            "name":  "Duckmaster88421",
-                            "value":  5
-                        },
-                        {
-                            "rank":  53,
-                            "name":  "FrostyTheFuckman",
-                            "value":  5
-                        },
-                        {
-                            "rank":  54,
-                            "name":  "Ghost",
-                            "value":  5
-                        },
-                        {
-                            "rank":  55,
-                            "name":  "Hank Hill",
-                            "value":  5
-                        },
-                        {
-                            "rank":  56,
-                            "name":  "highestshooter1",
-                            "value":  5
-                        },
-                        {
-                            "rank":  57,
-                            "name":  "JaxonBot13",
-                            "value":  5
-                        },
-                        {
-                            "rank":  58,
-                            "name":  "Killswitch77276",
-                            "value":  5
-                        },
-                        {
-                            "rank":  59,
-                            "name":  "KoncreteKruncher",
-                            "value":  5
-                        },
-                        {
-                            "rank":  60,
-                            "name":  "MNmenace952",
-                            "value":  5
-                        },
-                        {
-                            "rank":  61,
-                            "name":  "o0alpine0o",
-                            "value":  5
-                        },
-                        {
-                            "rank":  62,
-                            "name":  "PhenomenalEXP",
-                            "value":  5
-                        },
-                        {
-                            "rank":  63,
-                            "name":  "REDNECKDAN89",
-                            "value":  5
-                        },
-                        {
-                            "rank":  64,
-                            "name":  "Ross19Slayer",
-                            "value":  5
-                        },
-                        {
-                            "rank":  65,
-                            "name":  "Rtas\u0027Vadum",
-                            "value":  5
-                        },
-                        {
-                            "rank":  66,
-                            "name":  "SmashedPoet229",
-                            "value":  5
-                        },
-                        {
                             "rank":  67,
-                            "name":  "T0X1C_C0RG13",
-                            "value":  5
+                            "name":  "Volksjager_",
+                            "value":  28
                         },
                         {
                             "rank":  68,
-                            "name":  "TheBus_6478",
-                            "value":  5
+                            "name":  "CODxReFLeXZz",
+                            "value":  27
                         },
                         {
                             "rank":  69,
-                            "name":  "TreyA-311",
-                            "value":  5
+                            "name":  "CrazyLegs8894",
+                            "value":  27
                         },
                         {
                             "rank":  70,
-                            "name":  "ULTGME",
-                            "value":  5
+                            "name":  "DanToriouS",
+                            "value":  27
                         },
                         {
                             "rank":  71,
-                            "name":  "WeBePrintinMoney",
-                            "value":  5
+                            "name":  "finn",
+                            "value":  27
                         },
                         {
                             "rank":  72,
-                            "name":  "Wooly",
-                            "value":  5
+                            "name":  "FlimsyHearing",
+                            "value":  27
                         },
                         {
                             "rank":  73,
-                            "name":  "Azap98",
-                            "value":  4
+                            "name":  "FlowRain5",
+                            "value":  27
                         },
                         {
                             "rank":  74,
-                            "name":  "BDanzerrr12",
-                            "value":  4
+                            "name":  "KEN THE BRAVE",
+                            "value":  27
                         },
                         {
                             "rank":  75,
-                            "name":  "Big_Hoss7226",
-                            "value":  4
+                            "name":  "LilTregor",
+                            "value":  27
                         },
                         {
                             "rank":  76,
-                            "name":  "complex-belief",
-                            "value":  4
+                            "name":  "ZamorakianScum",
+                            "value":  27
                         },
                         {
                             "rank":  77,
-                            "name":  "CornstalkerXIII",
-                            "value":  4
+                            "name":  "Cool A 1499",
+                            "value":  26
                         },
                         {
                             "rank":  78,
-                            "name":  "Daledoe1213",
-                            "value":  4
+                            "name":  "Dupes",
+                            "value":  26
                         },
                         {
                             "rank":  79,
-                            "name":  "Dark_Serpent04",
-                            "value":  4
+                            "name":  "ElderDemon1286",
+                            "value":  26
                         },
                         {
                             "rank":  80,
-                            "name":  "Digitex_mate",
-                            "value":  4
+                            "name":  "Gamoro",
+                            "value":  26
                         },
                         {
                             "rank":  81,
-                            "name":  "Dontchooseit",
-                            "value":  4
+                            "name":  "jarlasbjorn1985",
+                            "value":  26
                         },
                         {
                             "rank":  82,
-                            "name":  "DrButternubsJrMD",
-                            "value":  4
+                            "name":  "Leader Beans",
+                            "value":  26
                         },
                         {
                             "rank":  83,
-                            "name":  "Festiegamer",
-                            "value":  4
+                            "name":  "ReD_Reaping02",
+                            "value":  26
                         },
                         {
                             "rank":  84,
-                            "name":  "GRUBKILLER",
-                            "value":  4
+                            "name":  "Skoupidia_K",
+                            "value":  26
                         },
                         {
                             "rank":  85,
-                            "name":  "Gumby",
-                            "value":  4
+                            "name":  "THE Higi",
+                            "value":  26
                         },
                         {
                             "rank":  86,
-                            "name":  "Haikern",
-                            "value":  4
+                            "name":  "theeecharles",
+                            "value":  26
                         },
                         {
                             "rank":  87,
-                            "name":  "KG5MUSEE",
-                            "value":  4
+                            "name":  "JDREDSOX15",
+                            "value":  25
                         },
                         {
                             "rank":  88,
-                            "name":  "kilts2808",
-                            "value":  4
+                            "name":  "She3t Sta1nz",
+                            "value":  25
                         },
                         {
                             "rank":  89,
-                            "name":  "luckymann133",
-                            "value":  4
+                            "name":  "Althalus",
+                            "value":  24
                         },
                         {
                             "rank":  90,
-                            "name":  "MartinVanBuren",
-                            "value":  4
+                            "name":  "Bigwipes223",
+                            "value":  24
                         },
                         {
                             "rank":  91,
-                            "name":  "Mietch",
-                            "value":  4
+                            "name":  "ChampClay18",
+                            "value":  24
                         },
                         {
                             "rank":  92,
-                            "name":  "MommySlayer4535",
-                            "value":  4
+                            "name":  "cooperjayhawks",
+                            "value":  24
                         },
                         {
                             "rank":  93,
-                            "name":  "Resolved Slate",
-                            "value":  4
+                            "name":  "EclequlnoX",
+                            "value":  24
                         },
                         {
                             "rank":  94,
-                            "name":  "Rich_Mitch54",
-                            "value":  4
+                            "name":  "jmt719",
+                            "value":  24
                         },
                         {
                             "rank":  95,
-                            "name":  "Rolling-Thunder17",
-                            "value":  4
+                            "name":  "PREACHER1012513",
+                            "value":  24
                         },
                         {
                             "rank":  96,
-                            "name":  "Skunkymonkey619",
-                            "value":  4
+                            "name":  "Saltysocks9484",
+                            "value":  24
                         },
                         {
                             "rank":  97,
-                            "name":  "SL0AK HUNT",
-                            "value":  4
+                            "name":  "Syco GooN6758",
+                            "value":  24
                         },
                         {
                             "rank":  98,
-                            "name":  "snowman",
-                            "value":  4
+                            "name":  "ALS1999",
+                            "value":  23
                         },
                         {
                             "rank":  99,
-                            "name":  "SpecialEddy5881",
-                            "value":  4
+                            "name":  "DIS_FOX_DOE",
+                            "value":  23
                         },
                         {
                             "rank":  100,
-                            "name":  "What\u0027s a Pussy Pirat",
-                            "value":  4
+                            "name":  "drtou",
+                            "value":  23
                         }
                     ]
 }

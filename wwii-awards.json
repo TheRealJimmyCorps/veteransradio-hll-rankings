@@ -1,27 +1,59 @@
 {
-  "serverName": "HLL: WWII SERVER",
-  "gameType": "wwii",
-  "updatedAt": "WWII BOARD TEST",
-  "latestTopCombat": {
-    "playerName": "COMBATTESTPLAYER",
-    "value": 1845,
-    "mapName": "ST MARIE DU MONT"
-  },
-  "latestTopKiller": {
-    "playerName": "KILLERTESTPLAYER",
-    "value": 72,
-    "mapName": "OMAHA BEACH"
-  },
-  "latestDeadliestStreak": {
-    "playerName": "STREAKTESTPLAYER",
-    "value": 19,
-    "mapName": "FOY"
-  },
-  "latestTopSupport": {
-    "playerName": "SUPPORTTESTPLAYER",
-    "value": 1260,
-    "mapName": "UTAH BEACH"
-  },
-  "allTimeKillRecord": null,
-  "allTimeStreakRecord": null
+    "serverName":  "HLL: WWII SERVER",
+    "gameType":  "wwii",
+    "updatedAt":  "2026-10-10T18:04:30Z",
+    "latestTopCombat":  {
+                            "playerName":  "ãÃ±ãdrÃ©s",
+                            "playerId":  "76561198072016138",
+                            "value":  12,
+                            "mapName":  "CARENTAN",
+                            "mapId":  "carentan_offensive_ger",
+                            "gameMode":  "Offensive",
+                            "awardedAt":  "2026-10-10T18:04:30Z"
+                        },
+    "latestTopKiller":  {
+                            "playerName":  "ãÃ±ãdrÃ©s",
+                            "playerId":  "76561198072016138",
+                            "value":  1,
+                            "mapName":  "CARENTAN",
+                            "mapId":  "carentan_offensive_ger",
+                            "gameMode":  "Offensive",
+                            "awardedAt":  "2026-10-10T18:04:30Z"
+                        },
+    "latestDeadliestStreak":  {
+                                  "playerName":  "ãÃ±ãdrÃ©s",
+                                  "playerId":  "76561198072016138",
+                                  "value":  1,
+                                  "mapName":  "CARENTAN",
+                                  "mapId":  "carentan_offensive_ger",
+                                  "gameMode":  "Offensive",
+                                  "awardedAt":  "2026-10-10T18:04:30Z"
+                              },
+    "latestTopSupport":  {
+                             "playerName":  "mauro_te76",
+                             "playerId":  "76561199729730114",
+                             "value":  3540,
+                             "mapName":  "CARENTAN",
+                             "mapId":  "carentan_offensive_ger",
+                             "gameMode":  "Offensive",
+                             "awardedAt":  "2026-10-10T18:04:30Z"
+                         },
+    "allTimeKillRecord":  {
+                              "playerName":  "Magroober5",
+                              "playerId":  "76561199557847551",
+                              "value":  11,
+                              "mapName":  "PURPLE HEART LANE",
+                              "mapId":  "PHL_L_1944_Warfare_Night",
+                              "gameMode":  "Warfare",
+                              "awardedAt":  "2026-10-09T20:49:31Z"
+                          },
+    "allTimeStreakRecord":  {
+                                "playerName":  "Magroober5",
+                                "playerId":  "76561199557847551",
+                                "value":  5,
+                                "mapName":  "PURPLE HEART LANE",
+                                "mapId":  "PHL_L_1944_Warfare_Night",
+                                "gameMode":  "Warfare",
+                                "awardedAt":  "2026-10-09T20:49:31Z"
+                            }
 }
