@@ -1,27 +1,59 @@
 {
-  "serverName": "HLL: WWII SERVER",
-  "gameType": "wwii",
-  "updatedAt": "WWII BOARD TEST",
-  "latestTopCombat": {
-    "playerName": "COMBATTESTPLAYER",
-    "value": 1845,
-    "mapName": "ST MARIE DU MONT"
-  },
-  "latestTopKiller": {
-    "playerName": "KILLERTESTPLAYER",
-    "value": 72,
-    "mapName": "OMAHA BEACH"
-  },
-  "latestDeadliestStreak": {
-    "playerName": "STREAKTESTPLAYER",
-    "value": 19,
-    "mapName": "FOY"
-  },
-  "latestTopSupport": {
-    "playerName": "SUPPORTTESTPLAYER",
-    "value": 1260,
-    "mapName": "UTAH BEACH"
-  },
-  "allTimeKillRecord": null,
-  "allTimeStreakRecord": null
+    "serverName":  "HLL: WWII SERVER",
+    "gameType":  "wwii",
+    "updatedAt":  "2026-10-23T22:11:41Z",
+    "latestTopCombat":  {
+                            "playerName":  "Lightning McQueen",
+                            "playerId":  "76561198253137166",
+                            "value":  592,
+                            "mapName":  "TOBRUK",
+                            "mapId":  "tobruk_offensivebritish_morning",
+                            "gameMode":  "Offensive",
+                            "awardedAt":  "2026-10-23T22:11:41Z"
+                        },
+    "latestTopKiller":  {
+                            "playerName":  "Lightning McQueen",
+                            "playerId":  "76561198253137166",
+                            "value":  3,
+                            "mapName":  "TOBRUK",
+                            "mapId":  "tobruk_offensivebritish_morning",
+                            "gameMode":  "Offensive",
+                            "awardedAt":  "2026-10-23T22:11:41Z"
+                        },
+    "latestDeadliestStreak":  {
+                                  "playerName":  "::CONTI:: Conquero",
+                                  "playerId":  "76561198175136050",
+                                  "value":  2,
+                                  "mapName":  "TOBRUK",
+                                  "mapId":  "tobruk_offensivebritish_morning",
+                                  "gameMode":  "Offensive",
+                                  "awardedAt":  "2026-10-23T22:11:41Z"
+                              },
+    "latestTopSupport":  {
+                             "playerName":  "ÎÎµÎ»Î¹ÏÎ¬ÏÎ¹Î¿Ï",
+                             "playerId":  "76561198154662184",
+                             "value":  443,
+                             "mapName":  "TOBRUK",
+                             "mapId":  "tobruk_offensivebritish_morning",
+                             "gameMode":  "Offensive",
+                             "awardedAt":  "2026-10-23T22:11:41Z"
+                         },
+    "allTimeKillRecord":  {
+                              "playerName":  "Magroober5",
+                              "playerId":  "76561199557847551",
+                              "value":  11,
+                              "mapName":  "PURPLE HEART LANE",
+                              "mapId":  "PHL_L_1944_Warfare_Night",
+                              "gameMode":  "Warfare",
+                              "awardedAt":  "2026-10-09T20:49:31Z"
+                          },
+    "allTimeStreakRecord":  {
+                                "playerName":  "Magroober5",
+                                "playerId":  "76561199557847551",
+                                "value":  5,
+                                "mapName":  "PURPLE HEART LANE",
+                                "mapId":  "PHL_L_1944_Warfare_Night",
+                                "gameMode":  "Warfare",
+                                "awardedAt":  "2026-10-09T20:49:31Z"
+                            }
 }

@@ -1,16 +1,94 @@
 {
     "serverName":  "HLL: WWII SERVER",
     "gameType":  "wwii",
-    "updatedAt":  "",
+    "updatedAt":  "2026-10-23T22:04:21Z",
     "online":  true,
     "playerCount":  0,
     "maxPlayerCount":  100,
     "mapName":  "MORTAIN",
-    "gameMode":  "Skirmish",
+    "gameMode":  "Warfare",
     "totalKills":  [
-
+                       {
+                           "rank":  1,
+                           "name":  "Magroober5",
+                           "value":  11
+                       },
+                       {
+                           "rank":  2,
+                           "name":  "hamsterdog48",
+                           "value":  3
+                       },
+                       {
+                           "rank":  3,
+                           "name":  "::CONTI:: Conquero",
+                           "value":  2
+                       },
+                       {
+                           "rank":  4,
+                           "name":  "allartdo",
+                           "value":  2
+                       },
+                       {
+                           "rank":  5,
+                           "name":  "Lightning McQueen",
+                           "value":  2
+                       },
+                       {
+                           "rank":  6,
+                           "name":  "HonestBob",
+                           "value":  1
+                       },
+                       {
+                           "rank":  7,
+                           "name":  "Rebel Miner",
+                           "value":  1
+                       },
+                       {
+                           "rank":  8,
+                           "name":  "ãÃ±ãdrÃ©s",
+                           "value":  1
+                       }
                    ],
     "killStreaks":  [
-
+                        {
+                            "rank":  1,
+                            "name":  "Magroober5",
+                            "value":  5
+                        },
+                        {
+                            "rank":  2,
+                            "name":  "::CONTI:: Conquero",
+                            "value":  2
+                        },
+                        {
+                            "rank":  3,
+                            "name":  "allartdo",
+                            "value":  2
+                        },
+                        {
+                            "rank":  4,
+                            "name":  "hamsterdog48",
+                            "value":  2
+                        },
+                        {
+                            "rank":  5,
+                            "name":  "Lightning McQueen",
+                            "value":  2
+                        },
+                        {
+                            "rank":  6,
+                            "name":  "HonestBob",
+                            "value":  1
+                        },
+                        {
+                            "rank":  7,
+                            "name":  "Rebel Miner",
+                            "value":  1
+                        },
+                        {
+                            "rank":  8,
+                            "name":  "ãÃ±ãdrÃ©s",
+                            "value":  1
+                        }
                     ]
 }
