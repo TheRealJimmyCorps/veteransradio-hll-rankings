@@ -1,31 +1,19 @@
 {
-  "serverName": "HLL: VIET NAM SERVER",
-  "gameType": "vietnam",
-  "updatedAt": "TEST DATA",
-  "latestTopCombat": {
-    "playerName": "COMBAT TEST PLAYER",
-    "value": 1850,
-    "mapName": "THANH HOA BRIDGE",
-    "gameMode": "DOMINATION"
-  },
-  "latestTopKiller": {
-    "playerName": "KILLER TEST PLAYER",
-    "value": 72,
-    "mapName": "THANH HOA BRIDGE",
-    "gameMode": "DOMINATION"
-  },
-  "latestDeadliestStreak": {
-    "playerName": "STREAK TEST PLAYER",
-    "value": 19,
-    "mapName": "THANH HOA BRIDGE",
-    "gameMode": "DOMINATION"
-  },
-  "latestTopSupport": {
-    "playerName": "SUPPORT TEST PLAYER",
-    "value": 1240,
-    "mapName": "THANH HOA BRIDGE",
-    "gameMode": "DOMINATION"
-  },
-  "allTimeKillRecord": null,
-  "allTimeStreakRecord": null
+    "serverName":  "HLL: VIET NAM SERVER",
+    "gameType":  "vietnam",
+    "updatedAt":  "2026-09-04T14:14:14Z",
+    "latestTopCombat":  null,
+    "latestTopKiller":  null,
+    "latestDeadliestStreak":  null,
+    "latestTopSupport":  {
+                             "playerName":  "CptCracker",
+                             "playerId":  "00025f10e26541db8e9841feaa8a8c67",
+                             "value":  105,
+                             "mapName":  "THANH HÃA BRIDGE",
+                             "mapId":  "wdevf_domination_day",
+                             "gameMode":  "Domination",
+                             "awardedAt":  "2026-09-04T14:14:14Z"
+                         },
+    "allTimeKillRecord":  null,
+    "allTimeStreakRecord":  null
 }
