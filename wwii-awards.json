@@ -1,11 +1,27 @@
 {
-    "serverName":  "HLL: WWII SERVER",
-    "gameType":  "wwii",
-    "updatedAt":  "",
-    "latestTopCombat":  null,
-    "latestTopKiller":  null,
-    "latestDeadliestStreak":  null,
-    "latestTopSupport":  null,
-    "allTimeKillRecord":  null,
-    "allTimeStreakRecord":  null
+  "serverName": "HLL: WWII SERVER",
+  "gameType": "wwii",
+  "updatedAt": "WWII BOARD TEST",
+  "latestTopCombat": {
+    "playerName": "COMBATTESTPLAYER",
+    "value": 1845,
+    "mapName": "ST MARIE DU MONT"
+  },
+  "latestTopKiller": {
+    "playerName": "KILLERTESTPLAYER",
+    "value": 72,
+    "mapName": "OMAHA BEACH"
+  },
+  "latestDeadliestStreak": {
+    "playerName": "STREAKTESTPLAYER",
+    "value": 19,
+    "mapName": "FOY"
+  },
+  "latestTopSupport": {
+    "playerName": "SUPPORTTESTPLAYER",
+    "value": 1260,
+    "mapName": "UTAH BEACH"
+  },
+  "allTimeKillRecord": null,
+  "allTimeStreakRecord": null
 }
